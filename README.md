@@ -13,5 +13,10 @@ There are various approaches to make a Recommendation system, `collaborative fil
 ## Platform ?
 [Kaggle](https://www.kaggle.com/)
 
+## Reference ?
+[Jovian](https://jovian.ai/shashwatdixit6311/content-based-music-recommender-system#C4)
+
 ## Output ?
 ![image](https://user-images.githubusercontent.com/53792139/184872149-33a59e07-8bd3-4439-8a92-a40759b75e45.png)
+
+# Thank You 🙏
